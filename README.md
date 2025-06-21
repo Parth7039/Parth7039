@@ -1,4 +1,5 @@
-#  Hi there, I'm Parth Kailas Bhamare!
+# 👋 Hi there, I'm Parth Kailas Bhamare!  
+![Profile Views](https://komarev.com/ghpvc/?username=parthbhamare&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🚀 Flutter Developer | 🛡️ Cybersecurity Enthusiast
 
@@ -25,7 +26,7 @@ Building a **fullstack social media app** using:
 - 🧠 State Management: `bloc` & `provider`
 - 🔐 Firebase Authentication
 - ☁️ Firebase Storage
--  Playstore Deployment
+- 📱 Play Store Deployment
 
 ---
 
@@ -37,9 +38,15 @@ Building a **fullstack social media app** using:
 
 ---
 
+### 📆 GitHub Contribution Calendar
+
+![Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthbhamare&theme=radical)
+
+---
+
 ### 🌐 Portfolio
 
-Check out my portfolio: [https://parthbhamare.netlify.app](https://yourportfolio.com)
+Check out my work: [parthbhamare.netlify.app](https://parthbhamare.netlify.app)
 
 ---
 
