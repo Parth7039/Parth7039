@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Parth Kailas Bhamare!
+#  Hi there, I'm Parth Kailas Bhamare!
 
 ## 🚀 Flutter Developer | 🛡️ Cybersecurity Enthusiast
 
@@ -25,6 +25,7 @@ Building a **fullstack social media app** using:
 - 🧠 State Management: `bloc` & `provider`
 - 🔐 Firebase Authentication
 - ☁️ Firebase Storage
+-  Playstore Deployment
 
 ---
 
@@ -33,12 +34,6 @@ Building a **fullstack social media app** using:
 ![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthbhamare&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthbhamare&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=parthbhamare&theme=radical&hide_border=true)
-
----
-
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/parthbhamare/parthbhamare/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
