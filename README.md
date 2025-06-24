@@ -32,15 +32,15 @@ Building a **fullstack social media app** using:
 
 ### 📊 GitHub Stats
 
-![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthbhamare&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthbhamare&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=parthbhamare&theme=radical&hide_border=true)
+![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parth7039&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth7039&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Parth7039&theme=radical&hide_border=true)
 
 ---
 
 ### 📆 GitHub Contribution Calendar
 
-![Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthbhamare&theme=radical)
+![Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parth7039&theme=radical)
 
 ---
 
