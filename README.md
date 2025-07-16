@@ -52,7 +52,7 @@ Check out my work: [parthbhamare.netlify.app](https://parthbhamare.netlify.app)
 
 ### 📄 Resume
 
-[Click to view my resume](https://drive.google.com/file/d/1dj-AU_m6TP040pqmmowW1fmQGIXm-tPb/view?usp=sharing)
+[Click to view my resume](https://drive.google.com/file/d/1qrV4Ehx-FeD95TB7NizB5D8q8A0XKgFp/view?usp=sharing)
 
 ---
 
