@@ -52,14 +52,14 @@ Check out my work: [parthbhamare.netlify.app](https://parthbhamare.netlify.app)
 
 ### 📄 Resume
 
-[Click to view my resume](https://drive.google.com/file/d/1qrV4Ehx-FeD95TB7NizB5D8q8A0XKgFp/view?usp=sharing)
+[Click to view my resume](https://drive.google.com/file/d/15L89olngOupbCuMAvVQfMsG9H1znhgjf/view?usp=drivesdk)
 
 ---
 
 ### 📫 Connect with Me
 
 - 📧 Email: [parthbhamare7039@gmail.com](mailto:parthbhamare7039@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/parth-bhamare-313351282](https://www.linkedin.com/in/parth-bhamare-313351282)
+- 🔗 LinkedIn: [linkedin.com/in/Parth7039](https://www.linkedin.com/in/Parth7039)
 
 ---
 
